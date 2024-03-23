@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [v1.x.x] - YYYY-MM-DD
 
+## [v1.8.1] - 2024-03-23
+
+- Support Laravel `^11`
+- Support phpUnit `10` and `11`
+
 ## [v1.8.0] - 2023-01-16
 
 - Support Laravel `^10`
