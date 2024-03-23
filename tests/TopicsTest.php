@@ -129,7 +129,7 @@ class TopicsTest extends FCMTestCase
     /**
      * @return array[]
      */
-    public function dataProviderInvalidConditionOperators()
+    public static function dataProviderInvalidConditionOperators()
     {
         return [
             [
