@@ -10,8 +10,8 @@
 
 ## Support (guaranteed)
 
-- PHP `7.1.3` to `8.2.1`
-- Laravel `5.6` to `10`
+- PHP `7.1.3` to `8.3`
+- Laravel `5.6` to `11`
 
 ### Legacy
 
