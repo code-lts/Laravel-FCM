@@ -4,7 +4,7 @@
     "keywords": ["laravel", "lumen", "firebase", "notification", "push", "fcm", "firebase cloud messaging"],
     "type": "library",
     "license": "MIT",
-    "abandoned": true,
+    "abandoned": "kreait/firebase-php",
     "authors": [
         {
             "name": "Nicolas Brosy",
