@@ -4,6 +4,7 @@
     "keywords": ["laravel", "lumen", "firebase", "notification", "push", "fcm", "firebase cloud messaging"],
     "type": "library",
     "license": "MIT",
+    "abandoned": true,
     "authors": [
         {
             "name": "Nicolas Brosy",
@@ -74,11 +75,5 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
-    },
-    "archive": {
-        "exclude": [
-            "/tests",
-            "/phpunit.xml"
-        ]
     }
 }
